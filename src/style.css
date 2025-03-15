@@ -1,0 +1,35 @@
+            /* Title Color */
+            #title {
+                color: white;
+                background-color: palevioletred;
+                font-size: 50px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+            }
+            /* Sub Title Color */
+            #subtitle {
+                color: white;
+                background-color: black;
+                font-size: 30px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+            }
+            #top {
+                color: firebrick;
+            }
+
+            #first {
+                background-color: beige;
+            }
+
+            .A {
+                color: firebrick;
+            }
+
+            .B {
+                color: black;
+                background-color: burlywood;
+                font-size: 30px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+            }
